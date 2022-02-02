@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit Versão de avaliação) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="128px" height="128px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 128 127.98"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="619" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Stencil">
+		<font-face-src>
+			<font-face-name name="Stencil"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="v" horiz-adv-x="603" d="M405.336 170.835l-46.5007 -170.835 -128.334 0 -174.001 584.004c-2.66613,8.66638 -4.99973,14.6666 -7.33332,17.8335 -2.33359,2.99964 -5.83301,5.66674 -10.8337,8.00033 -10.333,4.16644 -17.1665,8.1666 -20.4996,11.666 -3.16688,3.66666 -4.83345,9.00086 -4.83345,16.1669 0,9.83318 4.33368,17.5 13.1663,23.0005 7.00078,4.16644 18.167,6.33279 33.8342,6.33279l217.334 0c13.8333,0 23.1667,-0.332542 28.3337,-0.999558 4.99973,-0.667017 9.16713,-2.00008 12.5003,-3.83293 3.33315,-2.33359 6.16652,-5.66674 8.33288,-9.83415 2.33359,-4.16644 3.50039,-8.33288 3.50039,-12.1668 0,-12.1668 -5.66674,-20.6669 -17.0002,-26.0001 -8.50011,-4.16644 -14.3331,-8.50011 -17.3328,-12.8328 -3.16688,-4.49995 -4.66718,-10.6674 -4.66718,-18.834 0,-5.33323 0.499779,-9.83318 1.5003,-13.6661l112.834 -398.003zm18.4996 69.8337l-25.8329 91.6674 56.1667 206.001c3.50039,13.0001 5.50047,21.0004 5.83301,24.001 0.667017,7.16608 -0.999558,15.1664 -4.83249,24 -5.16696,11.3335 -13.3336,18.8331 -24.3335,22.4997l-16.0007 5.83398c-12.5003,4.16644 -18.8331,12.4993 -18.8331,24.9996 0,8.66638 3.49942,15.4999 10.6665,20.1671 6.99981,4.83345 16.834,7.16608 29.3333,7.16608l119.668 0c15.1674,0 25.0006,-1.49934 29.5005,-4.33271 7.8331,-5.00069 11.8333,-12.0005 11.8333,-21.1667 0,-6.16749 -1.1668,-11 -3.66666,-14.6666 -2.49986,-3.50039 -6.99981,-6.83354 -13.4998,-9.66691l-24.8333 -11.8333c-10.5002,-4.83345 -20.5006,-14.5004 -30.1675,-29.0007 -9.66691,-14.5004 -17.0002,-30.9998 -22.1662,-49.6666l-78.8346 -286.002z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Stencil";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#A8A1A1;stroke-width:9.84;stroke-miterlimit:22.9256}
+    .str1 {stroke:white;stroke-width:0.23;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil2 {fill:#373435}
+    .fil0 {fill:white}
+    .fnt0 {font-weight:normal;font-size:120.28px;font-family:'Stencil'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="4.92" y="4.92" width="118.16" height="118.13" rx="19.73" ry="22.03"/>
+  <g id="_2123605736000">
+   <line class="fil1 str1" x1="64" y1="4.92" x2="64" y2= "4.92" />
+  </g>
+  <g transform="matrix(0.999999 0 0 1 -36.6856 40.1137)">
+   <text x="64" y="63.99"  class="fil2 fnt0">v</text>
+  </g>
+ </g>
+</svg>

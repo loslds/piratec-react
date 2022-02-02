@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit Versão de avaliação) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="198.18mm" height="198.18mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20438.37 20438.35"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str5 {stroke:#373435;stroke-width:20.63;stroke-miterlimit:22.9256}
+    .str4 {stroke:#F7F7F7;stroke-width:20.63;stroke-miterlimit:22.9256}
+    .str3 {stroke:white;stroke-width:20.63;stroke-miterlimit:22.9256}
+    .str1 {stroke:#F7F7F7;stroke-width:10.31;stroke-miterlimit:22.9256}
+    .str0 {stroke:white;stroke-width:10.31;stroke-miterlimit:22.9256}
+    .str2 {stroke:#F7F7F7;stroke-width:20.63;stroke-linejoin:bevel;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:#D1CCCE}
+    .fil3 {fill:black}
+    .fil2 {fill:#FDFDFD}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1904681512816">
+   <g>
+    <polygon class="fil0 str0" points="20433.21,5.16 20433.21,20433.19 5.16,20433.19 5.16,5.16 "/>
+   </g>
+   <rect class="fil0 str1" x="679.64" y="679.62" width="19079.1" height="19079.1"/>
+   <g>
+    <line class="fil0 str2" x1="10219.18" y1="2226.53" x2="10219.18" y2= "2226.53" />
+   </g>
+   <g>
+    <path class="fil1 str3" d="M10219.18 1552.06c4786.45,0 8667.07,3880.62 8667.07,8667.07 0,4786.45 -3880.62,8667.07 -8667.07,8667.07 -4786.45,0 -8667.07,-3880.62 -8667.07,-8667.07 0,-4786.45 3880.62,-8667.07 8667.07,-8667.07z"/>
+   </g>
+   <path class="fil2 str4" d="M10219.18 2226.53c4414.19,0 7992.6,3578.4 7992.6,7992.6 0,4414.2 -3578.4,7992.6 -7992.6,7992.6 -4414.19,0 -7992.6,-3578.39 -7992.6,-7992.6 0,-4414.19 3578.4,-7992.6 7992.6,-7992.6z"/>
+   <rect class="fil3 str5" x="4804.84" y="14086.46" width="10828.69" height="1546.95" rx="5053.4" ry="376.23"/>
+   <rect class="fil3 str5" x="4804.84" y="4804.84" width="10828.69" height="1546.95" rx="5558.75" ry="413.86"/>
+   <rect class="fil3 str5" x="4804.84" y="7898.75" width="10828.69" height="1546.95" rx="5558.75" ry="413.86"/>
+   <rect class="fil3 str5" x="4804.84" y="10992.55" width="10828.69" height="1546.95" rx="5558.75" ry="413.86"/>
+  </g>
+ </g>
+</svg>
