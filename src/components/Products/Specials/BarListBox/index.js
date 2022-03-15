@@ -9,7 +9,7 @@ import MainList from './MainList'
 import TitleListBox from './TitleListBox'
 import SelectList from './SelectList'
 import SelectFilter from './SelectFilter'
-import SelectField from '../../../SelectField'
+// import SelectField from '../../../SelectField'
 import ButtonFilter from './ButtonFilter'
 // import Loading from '../../../Loading'
 
@@ -59,17 +59,15 @@ export default function BarListBox() {
               <CheckBox id={id} name={label} onChange={handleChangeMainList} />
             </HeaderList>
             <MainList id={id} name={label} disp={!!show}>
-              <TitleListBox />
+              <TitleListBox title={label} />
               <SelectList>
-                <SelectFilter id={id} name={label} isDisplay={show} onFilter={handleFilter}>
-                  <SelectField />
-                </SelectFilter>
+                <SelectFilter id={id} title={label} isDisplay={show} onFilter={handleFilter} />
               </SelectList>
             </MainList>
           </CardList>
         )
       })}
-      <ButtonFilter onClick={applyFilter} />
+      <ButtonFilter title={'Aplicar Filtro.'} onClick={applyFilter} />
       {/* {loading ? <Loading /> : null} */}
     </BoxList>
   )
